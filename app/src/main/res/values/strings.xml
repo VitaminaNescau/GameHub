@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GameHub</string>
+    <string name="tipo">Tipo</string>
+    <string name="viewListGames">Game list</string>
+    <string name="settingBtn">setting</string>
+</resources>
